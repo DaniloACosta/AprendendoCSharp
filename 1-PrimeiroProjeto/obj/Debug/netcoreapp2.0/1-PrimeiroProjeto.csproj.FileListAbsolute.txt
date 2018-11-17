@@ -1,0 +1,11 @@
+C:\Users\dnl_a\source\repos\AprendendoCSharp\1-PrimeiroProjeto\bin\Debug\netcoreapp2.0\1-PrimeiroProjeto.deps.json
+C:\Users\dnl_a\source\repos\AprendendoCSharp\1-PrimeiroProjeto\bin\Debug\netcoreapp2.0\1-PrimeiroProjeto.runtimeconfig.json
+C:\Users\dnl_a\source\repos\AprendendoCSharp\1-PrimeiroProjeto\bin\Debug\netcoreapp2.0\1-PrimeiroProjeto.runtimeconfig.dev.json
+C:\Users\dnl_a\source\repos\AprendendoCSharp\1-PrimeiroProjeto\bin\Debug\netcoreapp2.0\1-PrimeiroProjeto.dll
+C:\Users\dnl_a\source\repos\AprendendoCSharp\1-PrimeiroProjeto\bin\Debug\netcoreapp2.0\1-PrimeiroProjeto.pdb
+C:\Users\dnl_a\source\repos\AprendendoCSharp\1-PrimeiroProjeto\obj\Debug\netcoreapp2.0\1-PrimeiroProjeto.csprojResolveAssemblyReference.cache
+C:\Users\dnl_a\source\repos\AprendendoCSharp\1-PrimeiroProjeto\obj\Debug\netcoreapp2.0\1-PrimeiroProjeto.csproj.CoreCompileInputs.cache
+C:\Users\dnl_a\source\repos\AprendendoCSharp\1-PrimeiroProjeto\obj\Debug\netcoreapp2.0\1-PrimeiroProjeto.AssemblyInfoInputs.cache
+C:\Users\dnl_a\source\repos\AprendendoCSharp\1-PrimeiroProjeto\obj\Debug\netcoreapp2.0\1-PrimeiroProjeto.AssemblyInfo.cs
+C:\Users\dnl_a\source\repos\AprendendoCSharp\1-PrimeiroProjeto\obj\Debug\netcoreapp2.0\1-PrimeiroProjeto.dll
+C:\Users\dnl_a\source\repos\AprendendoCSharp\1-PrimeiroProjeto\obj\Debug\netcoreapp2.0\1-PrimeiroProjeto.pdb
